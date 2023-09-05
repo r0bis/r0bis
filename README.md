@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @r0bis - a psychiatrist
+- 👋 Hi, I’m @r0bis
 - 👀 I’m interested in feedback and data science
-- 🌱 I’m currently learning MBT
-- 💞️ I’m looking to collaborate on patient feedback
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me - best drop a PM. I will see it when I see it
 
 <!---
