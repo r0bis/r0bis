@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - best drop a PM. I will see it when I see it
 
+## .gitconfig
 ```
 [alias]
   logline = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
@@ -16,8 +17,28 @@
   lg4 = log --format='%C(green)%h%Creset %B %C(cyan)%ar%Creset' HEAD  
   st = status --short
 [core]
-        pager = less -FRSX
+  pager = less -FRSX
 ```
+## snippets for Rmd
+```
+snippet mar
+	\begin{marginfigure}[$0mm]
+	
+	\end{marginfigure}
+snippet bf
+	\textbf{$1}
+snippet it
+	\textit{$1}
+snippet nl
+	\newline
+snippet np
+	\newpage
+snippet vs
+	\vspace{$0mm}
+snippet nt
+	\newthought{$0}
+```
+
 
 <!---
 r0bis/r0bis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
